@@ -6,6 +6,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+# Description 
+"Crafted a React e-commerce site with API integration, learned from YouTube tutorials. Designed for real-time practice. Explore, cart, and order seamlessly. #React #Ecommerce #APIIntegration"
+
 ### `npm start`
 
 Runs the app in the development mode.\
